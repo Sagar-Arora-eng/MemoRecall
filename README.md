@@ -2,6 +2,9 @@
 
 A Full Stack MERN Application called "MemoRecall" that allows users to post interesting events that happened in their lives. Implemented Using React, Node.js, Express &amp; MongoDB.
 
+#visit
+https://memo-recall.onrender.com/posts
+
 ## Screenshot
 
 <img width="588" alt="image" src="https://user-images.githubusercontent.com/60315832/206919755-fa4ad57b-74e3-410c-ada8-351228e3b48c.png">
